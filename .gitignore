@@ -1,8 +1,10 @@
 .vs
 Library
 Logs
+obj_t
 Temp
 UserSettings
 .vsconfig
 Assembly-CSharp.csproj
+Assembly-CSharp-Editor_t.csproj
 NurseDemo.sln
