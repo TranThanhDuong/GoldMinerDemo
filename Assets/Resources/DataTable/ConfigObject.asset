@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00ac6c64fa1f7cb41b0ac3f3e31e4dfb, type: 3}
+  m_Name: ConfigObject
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    prefab: Teeths
+  - id: 2
+    prefab: Doctor
+  - id: 3
+    prefab: Strength
+  - id: 4
+    prefab: Cigaratte
+  - id: 5
+    prefab: Beer
+  - id: 6
+    prefab: Burger
+  - id: 7
+    prefab: Heart
+  - id: 8
+    prefab: Vitamin
+  - id: 9
+    prefab: Food
+  - id: 10
+    prefab: Medicine
+  - id: 11
+    prefab: Virus
